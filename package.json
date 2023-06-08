@@ -1,0 +1,21 @@
+{
+  "name": "ramita-oliva",
+  "displayName": "Ramita Oliva",
+  "description": "A oliva green based theme, first theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oliva Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oliva Green-color-theme.json"
+      }
+    ]
+  }
+}
