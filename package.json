@@ -2,6 +2,7 @@
   "name": "ramita-oliva",
   "displayName": "Ramita Oliva",
   "description": "A oliva green based theme, first theme",
+  "publisher": "Cristofacha",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
