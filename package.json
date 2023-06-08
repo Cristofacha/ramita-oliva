@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Cristofacha/ramita-oliva.git"
+	},
   "contributes": {
     "themes": [
       {
